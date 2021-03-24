@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="800" height="400" src="https://miro.medium.com/max/875/0*wIhfIoOdiP3qU4kF.png">
+</p>
+
 ## What is Openshift ?
 
 OpenShift is a family of containerization software products developed by Red Hat. Its flagship product is the OpenShift Container Platform — an on-premises platform as a service built around Docker containers orchestrated and managed by Kubernetes on a foundation of Red Hat Enterprise Linux.
@@ -18,10 +22,18 @@ To speed delivery and simplify maintenance, the company sought to create a conta
 With this platform, based on RedHat OpenShift and supported by Red Hat and Sysdig technology, Ford has improved developer productivity, enhanced its security and compliance approach, and optimized its hardware use to improve operating costs.
 Now, the company can focus on exploring new ways to innovate, from big data to machine learning and artificial intelligence.
 
+<p align="center">
+  <img width="800" height="400" src="https://miro.medium.com/max/798/0*AsccfzA0XlNkMDir.jpg">
+</p>
+
 ## Benefits : -
 1. Improved productivity with standardized development environment and self-service provisioning
 2. Enhanced security with enterprise technology from Red Hat and continuous monitoring provided by Sysdig
 3. Significantly reduced hardware costs by running OpenShift on bare metal.
+
+<p align="center">
+  <img width="800" height="400" src="https://miro.medium.com/max/841/1*kcmrGD4zCGpz9QLDJTImKQ.png">
+</p>
 
 ## Features of OpenShift
 OpenShift has come a long way since the release of its first version, and it can now offer a large array of benefits and exciting features. Here are five features you should know about:
@@ -38,3 +50,8 @@ Included in OpenShift are pre-created quick start application templates, whose p
 
 ### Continuous integration: 
 Also known simply as CI, continuous integration is all about frequent merging of code changes into a central repository, and OpenShift makes it easy because it includes Jenkins, the leading open source automation server. Jenkins is easy to set up, and it supports hundreds of plugins and third-party integrations.
+
+
+## Adopts Kubernetes and Red Hat OpenShift
+
+**Ford Motor** Company seeks to provide mobility solutions at accessible prices to its customers, including dealerships and parts distributors who sell to a variety of retail and commercial consumers. To speed delivery and simplify maintenance, the company sought to create a container-based application platform to modernize its legacy stateful applications and optimize its hardware use. With this platform, based on Red Hat OpenShift and supported by Red Hat and Sysdig technology, Ford has improved developer productivity, enhanced its security and compliance approach, and optimized its hardware use to improve operating costs. Now, the company can focus on exploring new ways to innovate, from big data to machine learning and artificial intelligence.
